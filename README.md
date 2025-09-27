@@ -1,5 +1,6 @@
 # Cuis-Smalltalk-Exif-Reader
 A start of a port/adaption of https://github.com/vast-community-hub/exif-reader
+(No working code yet)
  
 Next steps:
 
