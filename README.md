@@ -5,4 +5,5 @@ Next steps:
 
 - Make https://github.com/hhzl/Cuis-Smalltalk-CSV a prerequisite
 - Start using the CSV reader to read the exif tags file and remove the code devoted to that
-- Trace: SoSExifReader newFor: 'testImage_for_exif-reader.jpg'
+- Trace: SoSExifReader newFor: 'testImage_for_exif-reader.jpg' and fix code
+- Add more code from source if necessary
